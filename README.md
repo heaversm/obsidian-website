@@ -23,12 +23,14 @@ This script clones the Quartz repo to a directory of your choosing, prompts you 
 
 ![Obsidian Public Vault](./img/obsidian-vault.jpg)
 
-## Setup
+## Tutorials
 
 Follow the instructions below, or watch the video tutorial on youtube: 
 
 - Windows Tutorial - coming soon
-- [Mac Tutorial](https://youtu.be/g7wCk5YmyqU):
+- [Mac Tutorial](https://youtu.be/g7wCk5YmyqU)
+
+## Setup
 
 
 1. Clone this repo to a directory of your choosing
