@@ -27,7 +27,7 @@ This script clones the Quartz repo to a directory of your choosing, prompts you 
 
 Follow the instructions below, or watch the video tutorial on youtube: 
 
-- Windows Tutorial - coming soon
+- [Windows Tutorial](https://youtu.be/g7wCk5YmyqU)
 - [Mac Tutorial](https://youtu.be/g7wCk5YmyqU)
 
 ## Setup
